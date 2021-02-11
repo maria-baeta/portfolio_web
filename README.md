@@ -1,2 +1,2 @@
-Olá, eu sou a Maria Emilia Santos Baeta Martins mas pode me chamar de Maria Baeta. 
-Sou brasileira natural de Belo Horizonte, a capital de Minas Gerais, capital essa onde mora atualmente (ano de 2021)
+Oi, eu sou a Maria.
+Esse repositorio foi criado com intuito de armazernar meu portfolio durante a formação na Trybe. 
