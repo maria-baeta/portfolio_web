@@ -1,7 +1,9 @@
         body{
-            font-family: sans-serif;
-            background-color: #D9C3C3;
-            font-size: 20px;
+            margin: 0;
+            padding: 0;
+            font-family: monospace;
+            background-color: #C9DDF5;
+            font-size: 15px;
         }
 
         .titulo-principal{
@@ -25,7 +27,7 @@
             font-size: 18px;
             color: #D15E5E;
         }
-       #photo{
-            border-radius: 100%;
-        }
+       /* #photo{
+            border-radius: %;
+        }*/
         
