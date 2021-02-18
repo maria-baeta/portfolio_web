@@ -8,6 +8,7 @@ body{
 
 div{
     margin: 10px;
+    padding-right: 30px;
     background-color: white;
 }
 .titulo-principal{
@@ -19,10 +20,25 @@ div{
 
 div img{
     width:200px;
-    padding:;
-    border: 5px solid black;
+    /*padding:;
+    border: 5px solid black;*/
     
 }
+
+.menu li{
+    display: inline-block;
+ }
+ ol{
+    text-align: right;
+ }
+ 
+
+ 
+
+ ol{
+    text-align: right;
+ }
+
     
 .sub-titulo{
 color: #9E4747;
