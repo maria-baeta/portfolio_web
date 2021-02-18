@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oi, eu sou a Maria</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>  
+        <h1 id="aqui" class="titulo-principal">Bem Vindos!</h1> 
+    </div>
+        <div class="menu">
+                <ol>
+                    <li><a href="#sobre">Sobre mim</a></li> 
+                    <li><a href="#habilidades">Habilidades</a></li>
+                    <li><a href="#redes">Mnhas Redes</a></li>
+                </ol>           
+        </div>
+    </div>
+    
+    <div class="emlinha">
+        <img  id="photo"src="imagem2.jpg" alt="Foto da Maria"  >
+    </div>      
+  
+    <div class="emlinha">
+        <h2 id="sobre" class="sub-titulo">Sobre mim</h2>
+   
+        <p id="descrições"> Olá, eu sou a Maria Emília Santos Baeta Martins mas  como já somos íntimos pode me chamar de Maria Baeta ou só Baeta, nasci em 1994, sou natural da cidade Belo Horizonte,onde moro atualmente (2021). 
+        
+        Sou formada em Design Gráfico pelo Centro Universitário de Belo Horizonte – Uni-Bh (2014-2016), durante a faculdade aprendi e desenvolvi meus conhecimento em software de edição e criação de conteúdo gráfico. 
+        
+        Iniciei em 2021 minha formação na Trybe em Desenvolvimento Web com intuito de agregar e expandir meus conhecimento, visando unir meus conhecimentos anteriores e me lançar no mercado. 
+        </p>
+    </div>
+<div>
+    <h2 id="habilidades" class="sub-titulo" >Habilidades</h2>
+    <div>
+        <p>O que já aprendi:</p>
+           <ul>
+               <li class="lista">Corel Draw</li>
+               <li class="lista">Illustrator</li>
+               <li class="lista">Photoshop</li>
+               <li class="lista">IndDesign</li>
+               <li class="lista" >Canvas</li>
+           </ul>
+    </div>
+    <div>
+        <p>O que vou aprender na Trybe:</p>
+           <ul>
+               <li class="lista">Html</li>
+               <li class="lista">CSS</li>
+               <li class="lista">Java Script</li>
+               <li class="lista">E muito mais.......</li>
+           </ul>
+    </div>
+</div>
+<div>
+    <h2 id="redes" class="sub-titulo">Minhas Redes</h2>
+</div>
+    <div>
+        <p>Para conhecer mais sobre mim acesse:</p>
+            </div>
+    <div>
+        <ul>
+            <li> <a href="https://www.linkedin.com/in/maria-baeta/" target="_blank">LinkedIn</a> </li>
+            <li> <a href="https://www.instagram.com/mariab_aeta/" target="_blank">Instagram</a> </li>
+            <li> <a href="https://www.facebook.com/memiliabaeta" target="_blank">Facebook</a> </li>
+            </ul>
+    </div>
+    <div>
+    <div>
+        <p>Isso é tudo pessoal, <a href="#inicio">clique aqui</a> para voltar!</p>
+    </div>    
+
+</div>
+</body>
+</html>

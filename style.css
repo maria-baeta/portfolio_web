@@ -1,23 +1,24 @@
 body{
-    margin: 0;
-    padding: 0;
-    font-family: monospace;
+    margin: 1px;
+    padding: 1px;
+    font-family:'Roboto', sans-serif;
     background-color: #C9DDF5;
     font-size: 15px;
 }
 
-div{
-    margin: 10px;
-    padding-right: 30px;
+div:nth-child(2){    
     background-color: white;
 }
+
 .titulo-principal{
     text-align: center;
-    font-family: unset;
     font-size: 2em;
     color: #606A75;
     }
-
+.menu li{
+    display: inline-block;
+}
+    
 div img{
     width:200px;
     /*padding:;
@@ -25,20 +26,15 @@ div img{
     
 }
 
-.menu li{
-    display: inline-block;
- }
  ol{
     text-align: right;
  }
- 
-
- 
-
- ol{
-    text-align: right;
+ .emlinha{
+     display: inline-block;
  }
+  
 
+ 
     
 .sub-titulo{
 color: #9E4747;
