@@ -26,8 +26,8 @@
   
     <div class="emlinha">
         <h2 id="sobre" class="sub-titulo">Sobre mim</h2>
-   
-        <p id="descrições"> Olá, eu sou a Maria Emília Santos Baeta Martins mas  como já somos íntimos pode me chamar de Maria Baeta ou só Baeta, nasci em 1994, sou natural da cidade Belo Horizonte,onde moro atualmente (2021). 
+   </div>
+       <div> <p id="descrições"> Olá, eu sou a Maria Emília Santos Baeta Martins mas  como já somos íntimos pode me chamar de Maria Baeta ou só Baeta, nasci em 1994, sou natural da cidade Belo Horizonte,onde moro atualmente (2021). 
         
         Sou formada em Design Gráfico pelo Centro Universitário de Belo Horizonte – Uni-Bh (2014-2016), durante a faculdade aprendi e desenvolvi meus conhecimento em software de edição e criação de conteúdo gráfico. 
         
