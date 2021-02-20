@@ -6,8 +6,9 @@ body{
 }
 div{
     margin: 5px;
+    border: 1px solid black;
 }
-div:nth-child(4){    
+div:nth-child(5){    
     background-color: white;
 }
 
@@ -42,7 +43,7 @@ img{
     opacity:60%;
     max-width:70%;
     min-height: 250px;
-    border: 1px solid black
+    border-radius: 30px;
 }
 p{
     padding-left:10px;
@@ -51,4 +52,14 @@ p{
     line-height: 30px;
     text-align:justify;
     letter-spacing: 1px;
+}
+.sub-titulo{
+    color: #606A75;
+    font-size: 15px;
+    font-weight: 100;
+    letter-spacing: 1px;
+    text-align: center;
+}
+.lista{
+    display: inline-block;
 }
