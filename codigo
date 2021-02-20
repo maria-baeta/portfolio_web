@@ -77,3 +77,73 @@
 </div>
 </body>
 </html>
+
+CSS---------------------------
+
+
+body{
+    margin: 1px;
+    font-family:'Roboto', sans-serif;
+    background-color: #C9DDF5;
+    font-size: 15px;
+}
+
+div:nth-child(4){    
+    background-color: white;
+}
+
+.titulo-principal{
+    text-align: center;
+    font-size: 2em;
+    color: #606A75;
+    }
+.menu li{
+    display: inline-block;
+}
+ol{
+   text-align: right;
+}
+
+ img{
+    
+    width:300px;
+    height: 300px;
+    padding:1px;
+    border-radius: 50%;
+    background-color: white;
+}
+   
+.sub-titulo{
+color: #606A75;
+font-size: 15px;
+font-weight: 100;
+letter-spacing: 1px;
+}
+
+p{
+font-size: 15px;
+line-height: 30px;
+text-align:start;
+letter-spacing: 1px;
+}
+
+#sobre {
+    display: inline-block;
+    padding: 5px;
+    background:white;
+    opacity:60%;
+    width: 100%;
+    max-width:70%;
+}
+
+
+
+.lista{
+font-size: 18px;
+color: #D15E5E;
+}
+/* #photo{
+border-radius: %;
+}*/
+
+
