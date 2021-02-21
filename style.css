@@ -6,12 +6,8 @@ body{
 }
 div{
     margin: 5px;
-    border: 1px solid black;
+   
 }
-div:nth-child(6){    
-    background-color: white;
-}
-
 .titulo-principal{
     text-align: center;
     font-size: 2em;
@@ -32,18 +28,16 @@ img{
     background-color: white;
 }
 #foto {
-    border: 1px solid black;
+    padding-left: 80px;
     display: inline-block;
     min-height: 220px;
-    padding-top: 40px;
+    padding-top: 10px;
 }
 #sobre {
     float:right ;
-    background:white;
-    opacity:60%;
     max-width:70%;
     min-height: 250px;
-    border-radius: 30px;
+   padding-right: 50px;
 }
 p{
     padding-left:10px;
@@ -66,6 +60,6 @@ p{
     min-height: 20px;
     margin-left: 300px;
 }
-ul li:nth-child(2n+1){
+ ul li:nth-child(2n+1){
     color:#606A75;
     }
